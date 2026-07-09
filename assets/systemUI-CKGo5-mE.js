@@ -1,0 +1,1 @@
+import{r as e}from"./native-pet-RffdXazE.js";import"./vendor-react-B2VXkTUV.js";import"./vendor-dexie-KLdnSHz2.js";import"./vendor-lucide-vaUvJSuw.js";let r=null;function t(){return r||(r=e("SystemUI")),r}export{t as getSystemUI};
